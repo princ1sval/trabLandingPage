@@ -1,0 +1,61 @@
+.tuturial{
+    color: #00ff00;
+    border: 7px solid #00ff00;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 260px;
+    height: 460px;
+    padding: 20px 45px;
+    margin: 10px 0;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: black;
+    
+}
+.webnar{
+    color: #00ff00;
+    border: 7px solid #00ff00;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 260px;
+    height: 460px;
+    padding: 20px 45px;
+    margin: 10px 0;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: black;
+    
+    
+}
+.foruns{
+    color: #00ff00;
+    border: 7px solid #00ff00;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 260px;
+    height: 460px;
+    padding: 20px 45px;
+    margin: 10px 0;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: black;
+
+    
+}
+.conteudo{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;  
+}

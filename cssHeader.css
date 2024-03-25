@@ -1,0 +1,71 @@
+header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Distribui o espaço entre e ao redor dos itens de forma mais eficaz */
+    border-bottom: 4px solid #00ff00;
+    padding: 0 20px; /* Adiciona um pouco de espaço nas laterais */
+}
+
+nav {
+    
+    display: flex;
+    align-items: center; /* Centraliza os itens na vertical */
+    flex-grow: 1; /* Faz o nav ocupar o espaço disponível */
+    justify-content: flex-end; /* Alinha os itens de navegação ao final */
+}
+
+nav ul {
+    display: flex; /* Torna a ul flexível para alinhar os itens horizontalmente */
+    list-style-type: none;
+    padding: 0; /* Remove o preenchimento padrão */
+    margin: 0; /* Remove a margem padrão */
+}
+
+nav ul li {
+    padding: 0 20px; /* Adiciona espaçamento horizontal entre os itens */
+}
+
+img {
+    width: 50px; /* Mantém a largura da imagem */
+    margin-right: 20px; /* Adiciona espaço à direita da imagem */
+}
+
+#woogle {
+    color: #00ff00;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 161, 5);
+    border-bottom: none;
+}
+
+ul#listaCabecalho {
+    display: flex; /* Usa flexbox para alinhar itens horizontalmente */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    font-size: 30px;
+}
+
+ul#listaCabecalho li {
+    padding: 0 10px; /* Adiciona um pequeno espaçamento horizontal */
+}
+
+ul#listaCabecalho li a {
+    color: #00ff00;
+    text-decoration: none;
+    padding: 12px 14px; /* Ajusta o preenchimento para melhor toque */
+}
+
+ul#listaCabecalho li a:hover {
+    background-color: #00ff00;
+    color: black;
+}
+#woogle{
+    margin-left: -20px;
+
+}
