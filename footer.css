@@ -5,4 +5,11 @@ footer{
     justify-content: space-between; /* Distribui o espaço entre e ao redor dos itens de forma mais eficaz */
     border-top: 4px solid  #00ff00;
     padding-top: 20px;
+
+}
+.imagensICON{
+    display: flex;
+    padding-right: 100px;
+    width: 100px;
+    background-color: blue;
 }

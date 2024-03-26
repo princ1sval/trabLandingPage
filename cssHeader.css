@@ -35,12 +35,7 @@ img {
     color: #00ff00;
 }
 
-body {
-    margin: 0;
-    background-color: rgb(255, 255, 255);
-    color: rgb(5, 161, 5);
-    border-bottom: none;
-}
+
 
 ul#listaCabecalho {
     display: flex; /* Usa flexbox para alinhar itens horizontalmente */

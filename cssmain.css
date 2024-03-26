@@ -1,3 +1,10 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: #05a105;
+    border-bottom: none;
+}
+
 .tuturial{
     color: #00ff00;
     border: 7px solid #00ff00;
@@ -57,5 +64,9 @@
 .conteudo{
     display: flex;
     margin-top: 50px;
-    justify-content: space-around;  
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+    height: 790px;
+    margin-top: 0%;
 }
